@@ -1,0 +1,5 @@
+	    <b>    Diario programmazione java
+ </b>
+
+Ultimo accesso per bukkit.org è stato il  23 luglio del 2014. Da allora mi son dedicato ad altro e oggi 20 giugno 2016 vorrei pubblicare una 
+api di telegram e un gioco sviluppato successivamente al 2014
